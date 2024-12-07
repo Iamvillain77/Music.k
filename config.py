@@ -42,7 +42,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002036406321"))
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", "5605603670"))
+OWNER_ID = int(getenv("OWNER_ID", "5909658683"))
 # ----------------------------------------------------------------
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
@@ -58,7 +58,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/rockykartik/Music.k",
+    "https://github.com/Iamvillain77/Music.k",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -72,10 +72,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+NVwOR6L_jik5NjI9")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+jtR3ftQNC9xiNWM9")
-SOURCE = getenv("SOURCE", "https://t.me/OFFEX_COMUNITY")
-CHAT = getenv("CHAT", "https://t.me/+jtR3ftQNC9xiNWM9")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/iamvillain77")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/oldskoolgc")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -142,13 +140,13 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/xhpqtp.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/fcawaj.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/fd827f9a4fe8eaa3e8bf4.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/fcawaj.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/c832e84cd991c865c7e4f.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e575ae40d6635250974e1.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
